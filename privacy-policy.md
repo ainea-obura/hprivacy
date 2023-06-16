@@ -1,10 +1,10 @@
-Privacy Policy for HPESA
+Privacy Policy for Qopa X
 
-At HPESA, we value your privacy and are committed to protecting your personal information. This Privacy Policy outlines how we collect, use, and disclose your information when you use our peer-to-peer lending platform. By using HPESA, you consent to the terms of this Privacy Policy.
+At Qopa X, we value your privacy and are committed to protecting your personal information. This Privacy Policy outlines how we collect, use, and disclose your information when you use our peer-to-peer lending platform. By using Qopa X, you consent to the terms of this Privacy Policy.
 
 Information We Collect
 
-We collect personal information when you register for an account on HPESA, apply for a loan, or invest in a loan. The information we collect may include your name, address, email address, phone number, date of birth, employment information, financial information, and other information necessary to process your loan application or investment.
+We collect personal information when you register for an account on Qopa X, apply for a loan, or invest in a loan. The information we collect may include your name, address, email address, phone number, date of birth, employment information, financial information, and other information necessary to process your loan application or investment.
 
 We may also collect information automatically when you use our platform, such as your IP address, browser type, and device information.
 
